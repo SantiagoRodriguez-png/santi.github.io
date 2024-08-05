@@ -1,0 +1,43 @@
+#titulo-centrado {
+    text-align: center;
+    font-size: 68px;
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    -webkit-text-stroke: 3px black;
+}
+
+#parrafo-grande {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(254, 228, 195);
+    font-family: 'Courier New', Courier, monospace;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 28px;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 0.5px black;
+}
+
+
+body {
+    background-image: url(fondo1.jpg);
+}
+
+.centrar-imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px; 
+    border-radius: 50%;
+}
+
+.links{
+    text-align: center;
+    font-size: 28px;
+    color: rgb(88, 24, 208);
+    -webkit-text-stroke: 0.5px black;
+}
